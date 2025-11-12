@@ -1,17 +1,17 @@
 {
     "name": "com.google.signin",
     "displayName": "Google Signin",
-    "author": "Robert Lehmann",
-    "version": "0.8.6",
-    "unity": "2021.3",
+    "author": "CF",
+    "version": "0.9.1",
+    "unity": "6000.0.58f2",
     "description": "Google Signin for android, ios ,desktop",
     "keywords": [
         "google",
         "signin"
     ],
     "dependencies": {
-		"com.google.external-dependency-manager": "1.2.177",
-        "com.unity.nuget.newtonsoft-json": "3.2.1"
+        "com.unity.nuget.newtonsoft-json": "3.2.1",
+		"com.google.external-dependency-manager": "1.2.175"
     },
     "samples": [
         {
