@@ -3,7 +3,7 @@
     "displayName": "Google Signin",
     "author": "CF",
     "version": "0.9.1",
-    "unity": "6000.0.58f2",
+    "unity": "2021.3",
     "description": "Google Signin for android, ios ,desktop",
     "keywords": [
         "google",
