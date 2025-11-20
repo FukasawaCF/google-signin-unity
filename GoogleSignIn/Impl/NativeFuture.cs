@@ -65,7 +65,7 @@ namespace Google.Impl {
         user.AuthCode = GoogleSignInImpl.GoogleSignIn_GetServerAuthCode(userPtr);
 
         string url = GoogleSignInImpl.GoogleSignIn_GetImageUrl(userPtr);
-        if (url.Length > 0) {
+        if (url?.Length > 0) {
           user.ImageUrl = new System.Uri(url);
         }
 
